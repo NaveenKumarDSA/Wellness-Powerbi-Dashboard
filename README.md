@@ -31,12 +31,12 @@ This project helped strengthen my skills in:
 - Creating calculated columns and measures
 - Communicating data-driven insights effectively
 
-  <h2>📁 Project Files </h2>
+<h2>📁 Project Files </h2>
 
 - wellness_sales_dataset.csv – Simulated sales data
 - dashboard_screenshot.png – Visual preview of the dashboard
 
-  <h2>📸 Dashboard Preview</h2>
+<h2>📸 Dashboard Preview</h2>
 
   <img width="1503" height="858" alt="image" src="https://github.com/user-attachments/assets/cb02950f-5687-4a7b-8a3f-8397878e25af" />
 
