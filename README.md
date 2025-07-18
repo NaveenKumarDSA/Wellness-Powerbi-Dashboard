@@ -1,8 +1,9 @@
-<h1>Wellness Sales Analysis – Power BI Project 🚀</h1>h1>
+<h1>Wellness Sales Analysis – Power BI Project 🚀</h1>
+
 I’m excited to share my latest Power BI dashboard built as part of a hands-on business analytics project:
 
--**🔍 Wellness Sales Performance Dashboard**
--**📦 Project Focus**: Analyzing wellness product sales to identify trends across channels, regions, and customer segments, enabling better strategic decisions.
+- **🔍 Wellness Sales Performance Dashboard**
+- **📦 Project Focus**: Analyzing wellness product sales to identify trends across channels, regions, and customer segments, enabling better strategic decisions.
 
 This interactive dashboard explores key performance indicators such as:
 
