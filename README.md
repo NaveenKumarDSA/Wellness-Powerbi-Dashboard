@@ -14,7 +14,7 @@ This interactive dashboard explores key performance indicators such as:
 - **Sales Channel Analysis**
 - **Monthly Sales Trends**
 
-  <h2> Tools & Techniques Used </h2>
+<h2> Tools & Techniques Used </h2>
   
 - Power BI
 - Data Modeling
